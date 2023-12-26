@@ -1,11 +1,11 @@
 {
-  "name": "AnimeVision",
-  "version": "3.5.0",
+  "name": "CustomVision",
+  "version": "1.0.0",
   "description": "A Dark Blue theme for vendetta.",
   "authors": [
     {
-      "name": "@sleepingfatcat",
-      "id": "908089062294949888"
+      "name": "@magyul",
+      "id": "356305282256732160"
     }
   ],
   "semanticColors": {
