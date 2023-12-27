@@ -95,8 +95,8 @@
     }
   },
   "background": {
-    "blur": 0.6,
-    "url": "https://github.com/MaGyul/test/releases/download/loop/sushino.jpg",
+    "blur": 0.7,
+    "url": "https://github.com/MaGyul/test/releases/download/loop/sushino-50.jpg",
     "alpha": 0.5
   },
   "spec": 2
