@@ -467,9 +467,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 113,
+            "size": 186,
             "url": "https://raw.githubusercontent.com/MaGyul/test/main/servers.dat",
-            "MD5": "491b06c248f73cc2e1feaabb7d7f62b4",
+            "MD5": "1d99e4ab645d41aacd0da4d50e407339",
             "path": "servers.dat"
           }
         }
