@@ -1,0 +1,80 @@
+/* ==UserStyle==
+@name         shelter.id Dark Mode (Color Inverted)
+@namespace    shelter.id
+@description  Shelter Dark Mode
+@author       MaGyul <magyul906@gmail.com> (https://github.com/MaGyul)
+@updateURL    https://github.com/MaGyul/test/raw/main/shelter.id.styl
+@preprocessor stylus
+@version      1.0.0
+@license      MIT
+==/UserStyle== */
+
+@-moz-document url-prefix("https://shelter.id") {
+    html body {
+        --footer-title-text-color: #cfcfcf;
+        --dark: #cfcfcf;
+    }
+    
+    html, app-shelter-modal-container, 
+    div.profile > app-user-name, 
+    .simple-notice-container > a, 
+    div.art_txt > app-media-slider img, 
+    :where(img, video, embed, iframe, object, picture, canvas, span, p, app-shelter-name) {
+        filter: invert(1);
+    }
+    
+    app-shelter-modal-container :where(img, video, embed, iframe, object, picture, canvas, span, p, strong), 
+    app-board-list-item > a[style*="--header-color: #000000;"] .title-header, 
+    span[style*="--header-color: #000000;"], 
+    div.profile > app-user-name > img,
+    div.comment-content-container div.art_txt,
+    div.art_txt iframe,
+    div.art_txt span,
+    app-shelter-name > span {
+        filter: invert(0);
+    }
+    
+    span > span, 
+    div.video-js, 
+    div.video-js span, 
+    div.video-js > video,
+    .setting-menu-title > img,
+    div.art_txt > p img,
+    .simple-notice-container > a > div > img {
+        filter: invert(0) !important;
+    }
+    
+    div.video-js span {
+        margin-bottom: 30px;
+    }
+    
+    div.video-js > button.vjs-big-play-button > span.vjs-icon-placeholder:before {
+        margin-left: -15px;
+        margin-top: -22px;
+    }
+    
+    app-modal-wrapper {
+        background-color: #ffffffcc;
+    }
+    
+    .shelter-modal-dialog .shelter-modal-body, .modal-ref-list, .close-btn {
+        background-color: #ededed !important;
+    }
+    
+    .shelter-profile-nickname-wrapper > app-shelter-name > span, 
+    div[role="listitem"] span, 
+    app-shelter-name > span {
+        color: currentColor !important;
+    }
+    
+    .fr-box.fr-basic .fr-element, 
+    .sidebar-title > span {
+        color: var(--dark) !important;
+    }
+    
+    span, 
+    div.art_txt > p,
+    app-user-name:not([style*="--text-color"]) {
+        color: var(--dark);
+    }
+}
