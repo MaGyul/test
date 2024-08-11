@@ -357,6 +357,46 @@
                                 "MD5": "31a242ef4cfd6bb6051f2d2adbf592cd",
                                 "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.18.2-40.2.21/fmlloader-1.18.2-40.2.21.jar"
                             }
+                        },
+                        {
+                            "id": "net.minecraftforge:fmlcore:1.18.2-40.2.21",
+                            "name": "Minecraft Forge (fmlcore)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 111968,
+                                "MD5": "13a23cd0c61325fb3369f8369d0a49b6",
+                                "url": "https://github.com/MaGyul/test/releases/download/mcs/fmlcore-1.18.2-40.2.21.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:javafmllanguage:1.18.2-40.2.21",
+                            "name": "Minecraft Forge (javafmllanguage)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 16292,
+                                "MD5": "cf6f36febc5194f0a9549d8d6faed066",
+                                "url": "https://github.com/MaGyul/test/releases/download/mcs/javafmllanguage-1.18.2-40.2.21.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:lowcodelanguage:1.18.2-40.2.21",
+                            "name": "Minecraft Forge (lowcodelanguage)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 7382,
+                                "MD5": "5bc47a3da66dcab9f3860bb8c0383c51",
+                                "url": "https://github.com/MaGyul/test/releases/download/mcs/lowcodelanguage-1.18.2-40.2.21.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:mclanguage:1.18.2-40.2.21",
+                            "name": "Minecraft Forge (mclanguage)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 4987,
+                                "MD5": "c4aca63bf7854c77240569fa794768ed",
+                                "url": "https://github.com/MaGyul/test/releases/download/mcs/mclanguage-1.18.2-40.2.21.jar"
+                            }
                         }
                     ]
                 }
