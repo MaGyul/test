@@ -56,39 +56,6 @@
                             }
                         },
                         {
-                            "id": "net.minecraft:client:1.18.2-20220404.173914:srg",
-                            "name": "Minecraft Forge (client srg)",
-                            "type": "Library",
-                            "classpath": true,
-                            "artifact": {
-                                "size": 13796791,
-                                "MD5": "49d0ce9681f0ffd3c5a177f6ad45c80b",
-                                "url": "https://github.com/MaGyul/test/releases/download/mcs/client-1.18.2-20220404.173914-srg.jar"
-                            }
-                        },
-                        {
-                            "id": "net.minecraft:client:1.18.2-20220404.173914:slim",
-                            "name": "Minecraft Forge (client slim)",
-                            "type": "Library",
-                            "classpath": true,
-                            "artifact": {
-                                "size": 10909711,
-                                "MD5": "62184203a1e66c6c72b415b7d6e64c0d",
-                                "url": "https://github.com/MaGyul/test/releases/download/mcs/client-1.18.2-20220404.173914-slim.jar"
-                            }
-                        },
-                        {
-                            "id": "net.minecraft:client:1.18.2-20220404.173914:extra",
-                            "name": "Minecraft Forge (client extra)",
-                            "type": "Library",
-                            "classpath": true,
-                            "artifact": {
-                                "size": 9349972,
-                                "MD5": "5de62b239289ed8e596b386766b87b41",
-                                "url": "https://github.com/MaGyul/test/releases/download/mcs/client-1.18.2-20220404.173914-extra.jar"
-                            }
-                        },
-                        {
                             "id": "org.ow2.asm:asm:9.7",
                             "name": "Minecraft Forge (asm)",
                             "type": "Library",
