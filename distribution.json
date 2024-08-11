@@ -56,6 +56,39 @@
                             }
                         },
                         {
+                            "id": "net.minecraft:client:1.18.2-20220404.173914:srg",
+                            "name": "Minecraft Forge (client srg)",
+                            "type": "Library",
+                            "classpath": true,
+                            "artifact": {
+                                "size": 13796791,
+                                "MD5": "49d0ce9681f0ffd3c5a177f6ad45c80b",
+                                "url": "https://github.com/MaGyul/test/releases/download/mcs/client-1.18.2-20220404.173914-srg.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraft:client:1.18.2-20220404.173914:slim",
+                            "name": "Minecraft Forge (client slim)",
+                            "type": "Library",
+                            "classpath": true,
+                            "artifact": {
+                                "size": 10909711,
+                                "MD5": "62184203a1e66c6c72b415b7d6e64c0d",
+                                "url": "https://github.com/MaGyul/test/releases/download/mcs/client-1.18.2-20220404.173914-slim.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraft:client:1.18.2-20220404.173914:extra",
+                            "name": "Minecraft Forge (client extra)",
+                            "type": "Library",
+                            "classpath": true,
+                            "artifact": {
+                                "size": 9349972,
+                                "MD5": "5de62b239289ed8e596b386766b87b41",
+                                "url": "https://github.com/MaGyul/test/releases/download/mcs/client-1.18.2-20220404.173914-extra.jar"
+                            }
+                        },
+                        {
                             "id": "org.ow2.asm:asm:9.7",
                             "name": "Minecraft Forge (asm)",
                             "type": "Library",
@@ -366,6 +399,2323 @@
                             }
                         }
                     ]
+                },
+                {
+                    "id": "com.rikurob:vmh:4709630.622514",
+                    "name": "VMH - Variable Mob Height",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 614005,
+                        "MD5": "d6986fb5cef934ac2e57c8262ebe2729",
+                        "url": "https://www.curseforge.com/api/v1/mods/622514/files/4709630/download"
+                    }
+                },
+                {
+                    "id": "com.crystalspider:harvest-with-ease:4829123.602171",
+                    "name": "Harvest with ease",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 470764,
+                        "MD5": "01e1c90aca35be60c9ad915fb4c7fa39",
+                        "url": "https://edge.forgecdn.net/files/4829/123/harvestwithease-1.18.2-6.1.0.0-forge.jar"
+                    }
+                },
+                {
+                    "id": "com.potato__boy:nan-health-fixer:4932783.828656",
+                    "name": "NaN Health Fixer",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3019,
+                        "MD5": "4b0034b60e37477d4efebba633803e16",
+                        "url": "https://edge.forgecdn.net/files/4932/783/nanhealthfixer-1.18.2-0.0.1.jar"
+                    }
+                },
+                {
+                    "id": "com.creativemd:creativecore:3948720.257814",
+                    "name": "CreativeCore",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 857719,
+                        "MD5": "0e6da4765ade98eda604cf3c718bbad1",
+                        "url": "https://edge.forgecdn.net/files/3948/720/CreativeCore_FORGE_v2.6.15_mc1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.serilum:biome-spawn-point:4313626.695238",
+                    "name": "Biome Spawn Point",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 47703,
+                        "MD5": "5172c4a46f2c8fedbadc01ba5865cab6",
+                        "url": "https://edge.forgecdn.net/files/4313/626/biomespawnpoint-1.18.2-2.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dertoaster_98:crossbowverhaul:3820795.555300",
+                    "name": "Crossbowverhaul",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 82727,
+                        "MD5": "0a2bfe14f7f6d41da89f10831640c402",
+                        "url": "https://edge.forgecdn.net/files/3820/795/crossbowverhaul-1.18.2-1.4.1-universal.jar"
+                    }
+                },
+                {
+                    "id": "com.rbasamoyai:create-big-cannons:5000111.646668",
+                    "name": "Create Big Cannons",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2321064,
+                        "MD5": "9e887c8238db45204beb1a7daec1e3cc",
+                        "url": "https://edge.forgecdn.net/files/5000/111/createbigcannons-forge-1.18.2-0.5.3.b.jar"
+                    }
+                },
+                {
+                    "id": "com.mcjty:lost-souls:5320542.271998",
+                    "name": "Lost Souls",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 34143,
+                        "MD5": "880f27b5328897e365539cdaf071531b",
+                        "url": "https://edge.forgecdn.net/files/5320/542/lostsouls-1.18-2.0.5.jar"
+                    }
+                },
+                {
+                    "id": "com.jaredlll08:createtweaker:4770434.437717",
+                    "name": "CreateTweaker",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 106266,
+                        "MD5": "68fa510bba7a5e5f4d6f9e069cf01e99",
+                        "url": "https://edge.forgecdn.net/files/4770/434/CreateTweaker-1.18.2-2.0.0.20.jar"
+                    }
+                },
+                {
+                    "id": "com.bl4ckscor3:get-it-together-drops:4044082.411045",
+                    "name": "Get It Together, Drops!",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 7805,
+                        "MD5": "cca2a815a5b6550436b982188b5f42b7",
+                        "url": "https://edge.forgecdn.net/files/4044/82/getittogetherdrops-forge-1.18.2-1.3.jar"
+                    }
+                },
+                {
+                    "id": "com.someaddon:smooth-chunk-save:3797990.582327",
+                    "name": "Server Performance - Smooth Chunk Save[Forge/Fabric]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 14216,
+                        "MD5": "2750570598933a38ce6903ec58cf0de4",
+                        "url": "https://edge.forgecdn.net/files/3797/990/smoothchunk-1.18.2-1.9.jar"
+                    }
+                },
+                {
+                    "id": "com.kosmx:playeranimator:4418152.658587",
+                    "name": "playerAnimator",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 181336,
+                        "MD5": "33e51d8320f9d5d8e37bc7f9479d6a3e",
+                        "url": "https://edge.forgecdn.net/files/4418/152/player-animation-lib-forge-1.0.2+1.18.jar"
+                    }
+                },
+                {
+                    "id": "com.chaosyr:explorers-compass:4016461.491794",
+                    "name": "Explorer's Compass",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 156076,
+                        "MD5": "529495b1807538e76faa5aa9aeb52e6a",
+                        "url": "https://edge.forgecdn.net/files/4016/461/ExplorersCompass-1.18.2-1.3.0-forge.jar"
+                    }
+                },
+                {
+                    "id": "com.furti_two:create-stuff-additions:4703282.466792",
+                    "name": "Create Stuff & Additions",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1128831,
+                        "MD5": "712251eec53afe869209b12a105dcfbc",
+                        "url": "https://edge.forgecdn.net/files/4703/282/create-stuff-additions1.18.2_v2.0.4a.jar"
+                    }
+                },
+                {
+                    "id": "com.tr7zw:not-enough-animations:5008743.433760",
+                    "name": "Not Enough Animations",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 420774,
+                        "MD5": "f3980a3f2d525b84fe2d442b2d8e1a53",
+                        "url": "https://www.curseforge.com/api/v1/mods/433760/files/5008743/download"
+                    }
+                },
+                {
+                    "id": "com.mcjty:the-lost-cities:5368860.269024",
+                    "name": "The Lost Cities",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1097136,
+                        "MD5": "7ef9507e6d48e552c9955ccc8deebbdc",
+                        "url": "https://edge.forgecdn.net/files/5368/860/lostcities-1.18-5.3.29.jar"
+                    }
+                },
+                {
+                    "id": "com.spacecat_97:armor-set-bonuses:5192434.549892",
+                    "name": "Armor Set Bonuses (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 72651,
+                        "MD5": "b24f7e04411c67ce4fbea6c350cc2c3a",
+                        "url": "https://edge.forgecdn.net/files/5192/434/spacecatasb-forge-18.13.1.jar"
+                    }
+                },
+                {
+                    "id": "com.noobanidus:too-fast:3672630.550678",
+                    "name": "Too Fast",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3880,
+                        "MD5": "b52661f4e59e58495d36576d8270f9a4",
+                        "url": "https://edge.forgecdn.net/files/3672/630/toofast-1.18-0.0.1.3.jar"
+                    }
+                },
+                {
+                    "id": "com.henkelmax:ultimate-car-mod:3707486.267458",
+                    "name": "Ultimate Car Mod",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2536876,
+                        "MD5": "3476664760466b83519bbf3d677cfec5",
+                        "url": "https://edge.forgecdn.net/files/3707/486/car-1.18.2-1.0.1.jar"
+                    }
+                },
+                {
+                    "id": "com.vazkii:autoreglib:3642382.250363",
+                    "name": "AutoRegLib",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 42733,
+                        "MD5": "b3fa32322a19c3d5f480efbff506dade",
+                        "url": "https://edge.forgecdn.net/files/3642/382/AutoRegLib-1.7-53.jar"
+                    }
+                },
+                {
+                    "id": "com.ewyboy:ore-tweaker:4515418.242436",
+                    "name": "Ore Tweaker",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 83470,
+                        "MD5": "d7aa02b2a4a976a1739cc240b3ff76d4",
+                        "url": "https://edge.forgecdn.net/files/4515/418/OreTweaker-1.18.2-3.4.0.jar"
+                    }
+                },
+                {
+                    "id": "com.tissou:tissous-zombie-pack-optifine-1-7x-1-20:4034053.312822",
+                    "name": "Tissou's Zombie Pack",
+                    "type": "File",
+                    "artifact": {
+                        "size": 14386431,
+                        "MD5": "01566219cc0971b27bf81b49e9efcb51",
+                        "url": "https://edge.forgecdn.net/files/4034/53/Tissou's Zombie Pack 1.18_2.6.zip",
+                        "path": "resourcepacks/Tissou's Zombie Pack 1.18_2.6.zip"
+                    }
+                },
+                {
+                    "id": "com.shedaniel:cloth-config:3972426.348521",
+                    "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1148490,
+                        "MD5": "44f785b56eee7656118235384d6eeff4",
+                        "url": "https://edge.forgecdn.net/files/3972/426/cloth-config-6.4.90-forge.jar"
+                    }
+                },
+                {
+                    "id": "com.mehvahdjukaar:selene:3842421.499980",
+                    "name": "Moonlight Lib",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 456163,
+                        "MD5": "25c5876f944b26593136ce5578f64f0c",
+                        "url": "https://edge.forgecdn.net/files/3842/421/selene-1.18.2-1.17.9.jar"
+                    }
+                },
+                {
+                    "id": "com.ithundxr:create-steam-n-rails:4944929.688231",
+                    "name": "Create: Steam 'n' Rails",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 4462084,
+                        "MD5": "caf05612d42778f19eb81ad7f1a2c9f8",
+                        "url": "https://edge.forgecdn.net/files/4944/929/Steam_Rails-1.4.8%2bforge-mc1.18.2-build.23.jar"
+                    }
+                },
+                {
+                    "id": "com.supermartijn642:trash-cans:4606892.394535",
+                    "name": "Trash Cans",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 155333,
+                        "MD5": "f5aaaf99b8980c01fe1586e17d601bcb",
+                        "url": "https://edge.forgecdn.net/files/4606/892/trashcans-1.0.18-forge-mc1.18.jar"
+                    }
+                },
+                {
+                    "id": "com.lainmi:cosmetic-armor-reworked:4016730.237307",
+                    "name": "Cosmetic Armor Reworked",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 88040,
+                        "MD5": "0577a73bb6068fa08ea0742d9002aa39",
+                        "url": "https://edge.forgecdn.net/files/4016/730/CosmeticArmorReworked-1.18.2-v2a.jar"
+                    }
+                },
+                {
+                    "id": "com.creativemd:enhancedvisuals:4411059.255389",
+                    "name": "EnhancedVisuals",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 4704465,
+                        "MD5": "3fa35e0f60bfa5c0afa9a6e099b099c8",
+                        "url": "https://edge.forgecdn.net/files/4411/59/EnhancedVisuals_FORGE_v1.6.4_mc1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.vectorwing:farmers-delight:4679315.398521",
+                    "name": "Farmer's Delight",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2729124,
+                        "MD5": "a4ffdf191511ebf1b5b2408fe9f1b9f6",
+                        "url": "https://edge.forgecdn.net/files/4679/315/FarmersDelight-1.18.2-1.2.3.jar"
+                    }
+                },
+                {
+                    "id": "com.elocindev:insanity-shader:4794932.618217",
+                    "name": "🎃 Insanity Shader",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1037011,
+                        "MD5": "f40d99b836ebfb633d4bb49469541221",
+                        "url": "https://edge.forgecdn.net/files/4794/932/Insanity-Shader-Universal-v1.500.zip",
+                        "path": "shaderpacks/Insanity-Shader-Universal-v1.500.zip"
+                    }
+                },
+                {
+                    "id": "com.jpzamps:apocalypse-now:5223155.448410",
+                    "name": "Apocalypse Now - Post Apocalyptic Arsenal ",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 7943992,
+                        "MD5": "923be5652cc4a0d9110fa1e511f521c5",
+                        "url": "https://edge.forgecdn.net/files/5223/155/Apocalyspe_Now_1.18.2_v2.0.7.jar"
+                    }
+                },
+                {
+                    "id": "com.exidex:swingthroughgrass:4030494.264353",
+                    "name": "SwingThroughGrass",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 23207,
+                        "MD5": "2c626f8f7faba4979a9713ba7917de6f",
+                        "url": "https://edge.forgecdn.net/files/4030/494/swingthroughgrass-1.18.2-1.9.1.jar"
+                    }
+                },
+                {
+                    "id": "com.xaero96:open-parties-and-claims:4784620.636608",
+                    "name": "Open Parties and Claims",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1199335,
+                        "MD5": "6c41d2f1a2b5f2f1cd2fe61ef7278014",
+                        "url": "https://edge.forgecdn.net/files/4784/620/open-parties-and-claims-forge-1.18.2-0.20.1.jar"
+                    }
+                },
+                {
+                    "id": "com.jaredlll08:controlling:3950209.250398",
+                    "name": "Controlling",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 117170,
+                        "MD5": "1e4a04b0502d05134754677c231ee25c",
+                        "url": "https://edge.forgecdn.net/files/3950/209/Controlling-forge-1.18.2-9.0+22.jar"
+                    }
+                },
+                {
+                    "id": "com.iucko:spark:4505375.361579",
+                    "name": "spark",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2976453,
+                        "MD5": "acbab5df7c342abd4df6357349f70664",
+                        "url": "https://edge.forgecdn.net/files/4505/375/spark-1.10.38-forge.jar"
+                    }
+                },
+                {
+                    "id": "com.forstride:biomes-o-plenty:3759236.220318",
+                    "name": "Biomes O' Plenty",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 21244292,
+                        "MD5": "c871cdbefa4dedfbc0d0af75352cddb2",
+                        "url": "https://edge.forgecdn.net/files/3759/236/BiomesOPlenty-1.18.2-16.0.0.109-universal.jar"
+                    }
+                },
+                {
+                    "id": "com.supermartijn642:supermartijn642s-core-lib:4660107.454372",
+                    "name": "SuperMartijn642's Core Lib",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 472105,
+                        "MD5": "62ef31e809afa055021a4dc153efac4f",
+                        "url": "https://edge.forgecdn.net/files/4660/107/supermartijn642corelib-1.1.12-forge-mc1.18.jar"
+                    }
+                },
+                {
+                    "id": "com.insane96:insanelib:4307858.465109",
+                    "name": "InsaneLib",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 72890,
+                        "MD5": "99e2a21ec2d5fb5c89063498381083be",
+                        "url": "https://edge.forgecdn.net/files/4307/858/InsaneLib-1.5.3-mc1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.mcjty:in-control:5320546.257356",
+                    "name": "In Control!",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 223917,
+                        "MD5": "16ac3b2d9cc6b44670924eb23d20a7f5",
+                        "url": "https://edge.forgecdn.net/files/5320/546/incontrol-1.18-6.1.13.jar"
+                    }
+                },
+                {
+                    "id": "com.textrue:textrues-embeddium-options:4747651.910506",
+                    "name": "TexTrue's Embeddium Options",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 71061,
+                        "MD5": "916558810edcad1be24a36fb4b098dc9",
+                        "url": "https://edge.forgecdn.net/files/4747/651/textrues_embeddium_options-0.1.1%2bmc1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.spottedstar:starlight-forge:3706539.526854",
+                    "name": "Starlight (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 110596,
+                        "MD5": "2a103e58f0f8e3fda3ab4676966bcbb4",
+                        "url": "https://edge.forgecdn.net/files/3706/539/starlight-1.0.2+forge.546ae87.jar"
+                    }
+                },
+                {
+                    "id": "com.corgi_taco:entity-collision-fps-fix:3807498.628345",
+                    "name": "Entity Collision FPS Fix",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 10171,
+                        "MD5": "e777a96530c8945e787f41f27284c864",
+                        "url": "https://edge.forgecdn.net/files/3807/498/Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.corgi_taco:lazy-dfu-forge:3544496.460819",
+                    "name": "Lazy DataFixerUpper(LazyDFU) [FORGE]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 15445,
+                        "MD5": "f90813b92c422c9f159c5e7d89167233",
+                        "url": "https://edge.forgecdn.net/files/3544/496/lazydfu-1.0-1.18+.jar"
+                    }
+                },
+                {
+                    "id": "com.mactso:bee-fix:4203417.547989",
+                    "name": "Bee Fix",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 31194,
+                        "MD5": "276b172cba155b3e2e946f53845bee54",
+                        "url": "https://www.curseforge.com/api/v1/mods/547989/files/4203417/download"
+                    }
+                },
+                {
+                    "id": "com.corosus:coroutil:5008370.237749",
+                    "name": "CoroUtil",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 63854,
+                        "MD5": "1e55afc68fae8b2b4aa7f77b5b6ff7a7",
+                        "url": "https://edge.forgecdn.net/files/5008/370/coroutil-forge-1.18.2-1.3.6.jar"
+                    }
+                },
+                {
+                    "id": "com.squeek502:appleskin:3927564.248787",
+                    "name": "AppleSkin",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 46304,
+                        "MD5": "fcd811d8fb5f83614d8e9b2e44c5edbc",
+                        "url": "https://edge.forgecdn.net/files/3927/564/appleskin-forge-mc1.18.2-2.4.1.jar"
+                    }
+                },
+                {
+                    "id": "com.someaddon:connectivity:3833738.470193",
+                    "name": "Connectivity[Forge/Fabric]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 55068,
+                        "MD5": "04716dcb318d62291b9091a549f8a98b",
+                        "url": "https://edge.forgecdn.net/files/3833/738/connectivity-1.18.2-3.2.jar"
+                    }
+                },
+                {
+                    "id": "com.henkelmax:simple-voice-chat:4835749.416089",
+                    "name": "Simple Voice Chat",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 8095093,
+                        "MD5": "91dacb6b72d3ec1649f77b7adf479063",
+                        "url": "https://edge.forgecdn.net/files/4835/749/voicechat-forge-1.18.2-2.4.28.jar"
+                    }
+                },
+                {
+                    "id": "com.smileycorp:atlas-lib:4567244.463826",
+                    "name": "Atlas Lib",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 115608,
+                        "MD5": "e0c6d088866c106b7a1e1b8c846779bd",
+                        "url": "https://edge.forgecdn.net/files/4567/244/Atlas-Lib-1.18.2-1.1.8.jar"
+                    }
+                },
+                {
+                    "id": "com.corgi_taco:shutup-experimental-settings:3544525.407174",
+                    "name": "Shutup Experimental Settings!",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 4179,
+                        "MD5": "b7eb2fcbe573f50c1f357b120d4354f4",
+                        "url": "https://edge.forgecdn.net/files/3544/525/shutupexperimentalsettings-1.0.4-1.18+.jar"
+                    }
+                },
+                {
+                    "id": "com.darkhaxdev:max-health-fix:4609586.492246",
+                    "name": "Max Health Fix",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 8496,
+                        "MD5": "84b93da3b946408b1f62cb3789388de2",
+                        "url": "https://edge.forgecdn.net/files/4609/586/MaxHealthFix-Forge-1.18.2-5.0.4.jar"
+                    }
+                },
+                {
+                    "id": "com.serilum:starter-kit:4421814.390717",
+                    "name": "Starter Kit",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 61854,
+                        "MD5": "cfa8db2be192a03cecbebdf6a4bacbc4",
+                        "url": "https://edge.forgecdn.net/files/4421/814/starterkit-1.18.2-5.2.jar"
+                    }
+                },
+                {
+                    "id": "com.mrbysco:just-enough-professions-jep:4095825.417645",
+                    "name": "Just Enough Professions (JEP)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 18927,
+                        "MD5": "3011318b3e8db6af0bbe0c8150910de4",
+                        "url": "https://edge.forgecdn.net/files/4095/825/JustEnoughProfessions-1.18.2-1.3.0.jar"
+                    }
+                },
+                {
+                    "id": "com.asek3:oculus:4578744.581495",
+                    "name": "Oculus",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3503276,
+                        "MD5": "27217fce55880bb932f21bf0e9b9c777",
+                        "url": "https://edge.forgecdn.net/files/4578/744/oculus-mc1.18.2-1.6.4.jar"
+                    }
+                },
+                {
+                    "id": "com.corgi_taco:enhanced-celestials:3785992.438447",
+                    "name": "Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1480305,
+                        "MD5": "eeeafbafe3fa04662ecebc843e84e50b",
+                        "url": "https://edge.forgecdn.net/files/3785/992/Enhanced_Celestials-forge-1.18.2-2.0.7.jar"
+                    }
+                },
+                {
+                    "id": "com.thedarkcolour:kotlin-for-forge:4392674.351264",
+                    "name": "Kotlin for Forge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 7164799,
+                        "MD5": "77eba2f9d90b49680b5a793316bb3efc",
+                        "url": "https://edge.forgecdn.net/files/4392/674/kotlinforforge-3.10.0-all.jar"
+                    }
+                },
+                {
+                    "id": "com.mrcrayfish:mrcrayfishs-gun-mod:4344223.289479",
+                    "name": "MrCrayfish's Gun Mod",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1675751,
+                        "MD5": "283bc136a81c6383ffc01317680b4a8b",
+                        "url": "https://edge.forgecdn.net/files/4344/223/cgm-1.3.3-1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.supermartijn642:durability-tooltip:4016226.511040",
+                    "name": "Durability Tooltip",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 17623,
+                        "MD5": "dae08f1edc04240ee4e5a1f8a8def45b",
+                        "url": "https://edge.forgecdn.net/files/4016/226/durabilitytooltip-1.1.4-forge-mc1.18.jar"
+                    }
+                },
+                {
+                    "id": "com.henkelmax:corpse:3694258.316582",
+                    "name": "Corpse",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 219501,
+                        "MD5": "a137869bf9f6084e164d1fb3215a19a5",
+                        "url": "https://edge.forgecdn.net/files/3694/258/corpse-1.18.2-1.0.1.jar"
+                    }
+                },
+                {
+                    "id": "com.alrex_u:parcool:4944977.482378",
+                    "name": "ParCool! ~ Minecraft Parkour ~",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 612410,
+                        "MD5": "9e5c2595b80d516a0681c79f156f1732",
+                        "url": "https://edge.forgecdn.net/files/4944/977/ParCool-1.18.2-3.1.0.6-R.jar"
+                    }
+                },
+                {
+                    "id": "com.darkhaxdev:enchantment-descriptions:4277221.250419",
+                    "name": "Enchantment Descriptions",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 62693,
+                        "MD5": "b6d6158959f02d86fea8a773ba1f4d22",
+                        "url": "https://edge.forgecdn.net/files/4277/221/EnchantmentDescriptions-Forge-1.18.2-10.0.12.jar"
+                    }
+                },
+                {
+                    "id": "com.abdelaziz333:saturn:5020329.670986",
+                    "name": "Saturn",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 76625,
+                        "MD5": "f347d5123dc4372ae3ae0b6de875f7c0",
+                        "url": "https://edge.forgecdn.net/files/5020/329/saturn-mc1.18.2-0.1.3.jar"
+                    }
+                },
+                {
+                    "id": "com.pop4959:chunky-pregenerator-forge:3579662.485681",
+                    "name": "Chunky (Forge/NeoForge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 243432,
+                        "MD5": "7b1700ed274546fc7e78ffc9464872d9",
+                        "url": "https://edge.forgecdn.net/files/3579/662/Chunky-1.2.164.jar"
+                    }
+                },
+                {
+                    "id": "com.snownee:kiwi:3990351.303657",
+                    "name": "Kiwi 🥝 (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 597739,
+                        "MD5": "f26b16731020cf428e1cd6c9c871a671",
+                        "url": "https://edge.forgecdn.net/files/3990/351/Kiwi-1.18.2-forge-6.1.3.jar"
+                    }
+                },
+                {
+                    "id": "com.ilikepiefoo2:kubejs-offline:4597664.641627",
+                    "name": "KubeJS Offline Documentation",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1493911,
+                        "MD5": "54722cee2e311afdd4c56dcdacd03d5e",
+                        "url": "https://edge.forgecdn.net/files/4597/664/kubejsoffline-1.1.7.jar"
+                    }
+                },
+                {
+                    "id": "com.shadows_of_fire:click-machine:3739497.298275",
+                    "name": "Click Machine",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 51962,
+                        "MD5": "23f96e2a1cbcdfc37d996f32dbbe7374",
+                        "url": "https://edge.forgecdn.net/files/3739/497/ClickMachine-1.18.2-6.0.5.jar"
+                    }
+                },
+                {
+                    "id": "com.malte0811:ferritecore:4074294.429235",
+                    "name": "FerriteCore ((Neo)Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 116626,
+                        "MD5": "ea8c0bfc697a73b0d1886e43a1a5a282",
+                        "url": "https://edge.forgecdn.net/files/4074/294/ferritecore-4.2.2-forge.jar"
+                    }
+                },
+                {
+                    "id": "com.vazkii:patchouli:3846086.306770",
+                    "name": "Patchouli",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 631415,
+                        "MD5": "c16562c0c0095bc538c682517edc8b9c",
+                        "url": "https://edge.forgecdn.net/files/3846/86/Patchouli-1.18.2-71.1.jar"
+                    }
+                },
+                {
+                    "id": "com.latvianmodder:item-filters:4055445.309674",
+                    "name": "Item Filters",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 115273,
+                        "MD5": "e0171a8d7e719a92f2df0736958dc59c",
+                        "url": "https://edge.forgecdn.net/files/4055/445/item-filters-forge-1802.2.8-build.47.jar"
+                    }
+                },
+                {
+                    "id": "com.paint_ninja:presence-footsteps-forge:4328018.433068",
+                    "name": "Presence Footsteps [Forge]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 7165820,
+                        "MD5": "c88d6244cdb3f9c47be03c11db24524a",
+                        "url": "https://edge.forgecdn.net/files/4328/18/PresenceFootsteps-1.18.2-1.5.1-forge.jar"
+                    }
+                },
+                {
+                    "id": "com.mcjty:the-one-probe:3965688.245211",
+                    "name": "The One Probe",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 330953,
+                        "MD5": "1c4e57325f98712bb76c241697a47288",
+                        "url": "https://edge.forgecdn.net/files/3965/688/theoneprobe-1.18-5.1.2.jar"
+                    }
+                },
+                {
+                    "id": "com.przemykomo:simple-planes:4353941.388908",
+                    "name": "Simple Planes (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 667849,
+                        "MD5": "b50004521143fd3ec8716d7f8dac2ec0",
+                        "url": "https://edge.forgecdn.net/files/4353/941/simpleplanes-1.18.2-5.2.1.jar"
+                    }
+                },
+                {
+                    "id": "com.aronson_1:just-enough-immersive-multiblocks:3903132.634571",
+                    "name": "Just Enough Immersive Multiblocks",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 11679,
+                        "MD5": "e2795a7c737da90c91ff1e63ef88a221",
+                        "url": "https://edge.forgecdn.net/files/3903/132/jeimultiblocks-1.18.2-0.0.2.jar"
+                    }
+                },
+                {
+                    "id": "com.sbom_xela:citadel:3783096.331936",
+                    "name": "Citadel",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 503137,
+                        "MD5": "fffef0755c3ac225d55b91357f2d9823",
+                        "url": "https://edge.forgecdn.net/files/3783/96/citadel-1.11.3-1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.mortuusars:chalk:4545742.533748",
+                    "name": "Chalk",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 193107,
+                        "MD5": "9f33f2c0fdb4cdf551406355294b567a",
+                        "url": "https://edge.forgecdn.net/files/4545/742/chalk-1.18.2-1.4.2.jar"
+                    }
+                },
+                {
+                    "id": "com._forgeuser21552638:shoulder-surfing-reloaded:4876014.243190",
+                    "name": "Shoulder Surfing Reloaded",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 142238,
+                        "MD5": "dc4739aa708205afb4c35bec8f48a935",
+                        "url": "https://edge.forgecdn.net/files/4876/14/ShoulderSurfing-Forge-1.18.2-2.8.1.jar"
+                    }
+                },
+                {
+                    "id": "com.flaxbeard:immersive-petroleum:4818720.268250",
+                    "name": "Immersive Petroleum",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2207912,
+                        "MD5": "20bc50d45a8cd7b4e718bd36d1d8940e",
+                        "url": "https://edge.forgecdn.net/files/4818/720/ImmersivePetroleum-1.18.2-4.2.0-25.jar"
+                    }
+                },
+                {
+                    "id": "com.ccr4ft3r:lightspeedmod:4594803.821790",
+                    "name": "Lightspeed - Launch optimizations",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 50663,
+                        "MD5": "ac51987990fc2ff172b2e50474c16994",
+                        "url": "https://edge.forgecdn.net/files/4594/803/lightspeed-1.18.2-1.0.5.jar"
+                    }
+                },
+                {
+                    "id": "com.bottomtextdanny:effective-forge:4017699.557796",
+                    "name": "Effective (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 742175,
+                        "MD5": "e4fac9c79c9a6082e10bb3ab3858e392",
+                        "url": "https://edge.forgecdn.net/files/4017/699/effective_fg-1.2.4.jar"
+                    }
+                },
+                {
+                    "id": "com.yungnickyoung:yungs-api:4428184.421850",
+                    "name": "YUNG's API (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 301487,
+                        "MD5": "ec58ada4e6951d88e0951d9238f4f0c6",
+                        "url": "https://edge.forgecdn.net/files/4428/184/YungsApi-1.18.2-Forge-2.2.9.jar"
+                    }
+                },
+                {
+                    "id": "com.theillusivec4:curios:3841948.309927",
+                    "name": "Curios API (Forge/NeoForge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 270867,
+                        "MD5": "b2c1af02a295c5505a97059a7d574eff",
+                        "url": "https://edge.forgecdn.net/files/3841/948/curios-forge-1.18.2-5.0.7.1.jar"
+                    }
+                },
+                {
+                    "id": "com.queenofmissiles:ai-improvements:4019126.233019",
+                    "name": "AI Improvements",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 29312,
+                        "MD5": "c2a9ff424722fed70180708ab83e9901",
+                        "url": "https://edge.forgecdn.net/files/4019/126/AI-Improvements-1.18.2-0.5.2.jar"
+                    }
+                },
+                {
+                    "id": "com.olafskiii:fast-leaf-decay:3693140.230976",
+                    "name": "Fast Leaf Decay",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 8873,
+                        "MD5": "57cc1cc6b0247389d89d5fa891f2c5c9",
+                        "url": "https://edge.forgecdn.net/files/3693/140/FastLeafDecay-28.jar"
+                    }
+                },
+                {
+                    "id": "com.bawnorton:dcfixes:5523462.1059881",
+                    "name": "DCFixes",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 440851,
+                        "MD5": "ec5af1530c38c5680c687a7339d52202",
+                        "url": "https://edge.forgecdn.net/files/5523/462/DeceasedCraftFixes-1.0.7%2b1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.shadows_of_fire:fastfurnace:3717883.299540",
+                    "name": "FastFurnace",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 5459,
+                        "MD5": "290a656290822c7aad682f67d9213cbf",
+                        "url": "https://edge.forgecdn.net/files/3717/883/FastFurnace-1.18.2-6.0.3.jar"
+                    }
+                },
+                {
+                    "id": "com.ichttt:first-aid:3860237.276837",
+                    "name": "First Aid",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 447000,
+                        "MD5": "196e21890ae7669f2ee8ca5be6925ff0",
+                        "url": "https://edge.forgecdn.net/files/3860/237/firstaid-1.11.1.jar"
+                    }
+                },
+                {
+                    "id": "com.corosus:what-are-they-up-to:5008387.945479",
+                    "name": "What Are They Up To (Watut)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 162640,
+                        "MD5": "765bbc7f527db72cd957c2466af80aeb",
+                        "url": "https://edge.forgecdn.net/files/5008/387/watut-forge-1.18.2-1.0.14.jar"
+                    }
+                },
+                {
+                    "id": "com.keksuccino:konkrete:4514906.410295",
+                    "name": "Konkrete [Forge/NeoForge]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 641737,
+                        "MD5": "6ae33e7d06ab83af63d248acf2032526",
+                        "url": "https://edge.forgecdn.net/files/4514/906/konkrete_forge_1.6.1_MC_1.18-1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.haubna:physics-mod:4750432.442735",
+                    "name": "Physics Mod",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 59307619,
+                        "MD5": "5f77de729daf8f85d1cb2bbc1a869603",
+                        "url": "https://edge.forgecdn.net/files/4750/432/physics-mod-2.12.5-mc-1.18.2-forge.jar"
+                    }
+                },
+                {
+                    "id": "com.someaddon:cupboard:4691988.326652",
+                    "name": "Cupboard",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 13776,
+                        "MD5": "31f8a074d1dde90dbe8830159e7fe773",
+                        "url": "https://edge.forgecdn.net/files/4691/988/cupboard-1.18.2-1.5.jar"
+                    }
+                },
+                {
+                    "id": "com.nocubeyt:nocubes-zombie-mobs:4219594.645456",
+                    "name": "NoCube's Zombie Mobs",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 327428,
+                        "MD5": "065bcf42c353af8df821f4a5fd77371e",
+                        "url": "https://www.curseforge.com/api/v1/mods/645456/files/4219594/download"
+                    }
+                },
+                {
+                    "id": "com.raoulvdberge:refined-storage:4902316.243076",
+                    "name": "Refined Storage",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3252284,
+                        "MD5": "136c375a8a1b3ee7053a0bc24761fe3c",
+                        "url": "https://edge.forgecdn.net/files/4902/316/refinedstorage-1.10.6.jar"
+                    }
+                },
+                {
+                    "id": "com.theillusivec4:polymorph:4119080.388800",
+                    "name": "Polymorph (Fabric/Forge/Quilt)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 255562,
+                        "MD5": "73cb2fbedb2a3b981c5c82d8a30e878b",
+                        "url": "https://edge.forgecdn.net/files/4119/80/polymorph-forge-1.18.2-0.46.jar"
+                    }
+                },
+                {
+                    "id": "com.wolforce:simple-shops:3806656.517272",
+                    "name": "Simple Shops",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 156374,
+                        "MD5": "e890ff9d34e76b52f1e8cf53d9440b81",
+                        "url": "https://edge.forgecdn.net/files/3806/656/simpleshops-1.2.1.jar"
+                    }
+                },
+                {
+                    "id": "com.someaddon:fix-gpu-memory-leak:4616476.882495",
+                    "name": "fix GPU memory leak[Forge/Fabric]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 8002,
+                        "MD5": "26cf509459bf6fb81a5a662a6b616963",
+                        "url": "https://edge.forgecdn.net/files/4616/476/gpumemleakfix-1.18.2-1.6.jar"
+                    }
+                },
+                {
+                    "id": "com.mehvahdjukaar:mmmmmmmmmmmm:3820503.225738",
+                    "name": "MmmMmmMmmMmm (Target Dummy)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 134770,
+                        "MD5": "e0c9fd0db48873dff2cc0594a09f2208",
+                        "url": "https://edge.forgecdn.net/files/3820/503/MmmMmmMmmMmm-1.18.2-1.5.2.jar"
+                    }
+                },
+                {
+                    "id": "com.fallen_breath:fast-ip-ping:4711822.904356",
+                    "name": "Fast IP Ping",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 10948,
+                        "MD5": "ab901cfed5e6bed1c9508a245b97dc67",
+                        "url": "https://edge.forgecdn.net/files/4711/822/fast-ip-ping-mc1.18.2-forge-v1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.azuredoomc:log-begone:4521572.623560",
+                    "name": "Log Begone",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 58435,
+                        "MD5": "41622c9c4fe1021b618458f3013a4411",
+                        "url": "https://edge.forgecdn.net/files/4521/572/Log-Begone-Forge-1.18-1.0.4.jar"
+                    }
+                },
+                {
+                    "id": "com.yalter:mouse-tweaks:3578801.60089",
+                    "name": "Mouse Tweaks",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 76344,
+                        "MD5": "3c10dff8a4d7c157184f2224db8639a2",
+                        "url": "https://edge.forgecdn.net/files/3578/801/MouseTweaks-forge-mc1.18-2.21.jar"
+                    }
+                },
+                {
+                    "id": "com.theadubbz:terrablender:3957976.563928",
+                    "name": "TerraBlender (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 96811,
+                        "MD5": "8bb74f84db692a34652d0d8bd2e3749f",
+                        "url": "https://edge.forgecdn.net/files/3957/976/TerraBlender-forge-1.18.2-1.2.0.126.jar"
+                    }
+                },
+                {
+                    "id": "com.yungnickyoung:yungs-better-mineshafts-forge:3855186.389665",
+                    "name": "YUNG's Better Mineshafts (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 274075,
+                        "MD5": "8419d7d54b5818fcd34a00ac308ca4ff",
+                        "url": "https://edge.forgecdn.net/files/3855/186/YungsBetterMineshafts-1.18.2-Forge-2.2.jar"
+                    }
+                },
+                {
+                    "id": "com.fionathemortal:better-biome-blend:3804089.446253",
+                    "name": "Better Biome Blend",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 52209,
+                        "MD5": "14f035b431177099b44cc41e890eec36",
+                        "url": "https://edge.forgecdn.net/files/3804/89/betterbiomeblend-1.18.2-1.3.5-forge.jar"
+                    }
+                },
+                {
+                    "id": "com.cozary:nameless-trinkets:4741616.541466",
+                    "name": "Nameless Trinkets",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 412318,
+                        "MD5": "0072bdcc5d2bba4a23c1c2d1ca807994",
+                        "url": "https://edge.forgecdn.net/files/4741/616/Nameless Trinkets-1.18.2-1.7.5.jar"
+                    }
+                },
+                {
+                    "id": "com.serilum:tree-harvester:4570373.367178",
+                    "name": "Tree Harvester",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 104569,
+                        "MD5": "bfb5a0bb65f78a45971fc076f86a64a3",
+                        "url": "https://edge.forgecdn.net/files/4570/373/treeharvester-1.18.2-8.1.jar"
+                    }
+                },
+                {
+                    "id": "com.pyroplay_twitch:zombie-extreme:4746394.392809",
+                    "name": "Zombie Extreme",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 6348423,
+                        "MD5": "3519eefb8f56cd6a16e3f30242ad103b",
+                        "url": "https://edge.forgecdn.net/files/4746/394/Zombie%20Extreme%201.18.2%200.2.4.jar"
+                    }
+                },
+                {
+                    "id": "com.shadows_of_fire:fastworkbench:4030000.288885",
+                    "name": "FastWorkbench",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 25444,
+                        "MD5": "079e3a423c954af0cae12bcad13773e6",
+                        "url": "https://edge.forgecdn.net/files/4030/0/FastWorkbench-1.18.2-6.1.1.jar"
+                    }
+                },
+                {
+                    "id": "com.blaytheninth:balm:4162605.531761",
+                    "name": "Balm (Forge Edition)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 621988,
+                        "MD5": "62cf3e47f37c8e353182a1df88ebbc4f",
+                        "url": "https://edge.forgecdn.net/files/4162/605/balm-3.2.1+0.jar"
+                    }
+                },
+                {
+                    "id": "com.jaredlll08:clumps:4153344.256717",
+                    "name": "Clumps",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 19070,
+                        "MD5": "e5ebb4b35230590651c3d6acedc550c0",
+                        "url": "https://edge.forgecdn.net/files/4153/344/Clumps-forge-1.18.2-8.0.0+17.jar"
+                    }
+                },
+                {
+                    "id": "com.joosh_7889:critters-and-companions:3972165.574913",
+                    "name": "Critters and Companions",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1032851,
+                        "MD5": "b5cbc0137e03b2d62ddaea5eb4a5edce",
+                        "url": "https://edge.forgecdn.net/files/3972/165/crittersandcompanions-1.18.2-1.0.2.jar"
+                    }
+                },
+                {
+                    "id": "com.asestefan:mutationcraft:4952279.849595",
+                    "name": "Mutationcraft [Forge]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 17383225,
+                        "MD5": "715160e80789d071983b5ccffa49eb00",
+                        "url": "https://edge.forgecdn.net/files/4952/279/Mutationcraft_1.18.2_1.0.6.jar"
+                    }
+                },
+                {
+                    "id": "com.buuz135:emojiful:3732908.284324",
+                    "name": "Emojiful",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 243609,
+                        "MD5": "bd4fb03161edf277d5ee95baebae13b8",
+                        "url": "https://edge.forgecdn.net/files/3732/908/emojiful-1.18.2-3.0.1.jar"
+                    }
+                },
+                {
+                    "id": "com.nyfaria:nyfs-spiders:4139305.686058",
+                    "name": "Nyf's Spiders",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 110619,
+                        "MD5": "c6d905ff8689a035a72a40de1916c75d",
+                        "url": "https://edge.forgecdn.net/files/4139/305/spiderstpo-1.18.2-2.0.3.jar"
+                    }
+                },
+                {
+                    "id": "com.xaero96:xaeros-minimap-fair-play-edition:4978245.263466",
+                    "name": "Xaero's Minimap (Fair-play Edition)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1333007,
+                        "MD5": "9bd46e0bb7aedf72b24f77ee165fee98",
+                        "url": "https://edge.forgecdn.net/files/4978/245/Xaeros_Minimap_FP23.9.4_Forge_1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.mapper:mapper-base:3952275.367442",
+                    "name": "Mapper Base",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 168163,
+                        "MD5": "07a1e91716a34449ff4b909d053917ac",
+                        "url": "https://edge.forgecdn.net/files/3952/275/mapperbase-1.18.2-4.0.1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.ccr4ft3r:culllessleaves-reforged:4457157.840788",
+                    "name": "CullLessLeaves Reforged (Unofficial)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 18773,
+                        "MD5": "6fb676660b3dac834dcd480f49d3b44f",
+                        "url": "https://edge.forgecdn.net/files/4457/157/CullLessLeaves-Reforged-1.18.2-1.0.5.jar"
+                    }
+                },
+                {
+                    "id": "com.errormikey:default-server-properties:4377553.676811",
+                    "name": "Default Server Properties",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 5538,
+                        "MD5": "4db646688499c3acc60bc0e58ee12d20",
+                        "url": "https://edge.forgecdn.net/files/4377/553/default-server-properties-1.0.1-build.10+mc1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.mrcrayfish:framework:4287475.549225",
+                    "name": "Framework",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 108363,
+                        "MD5": "41f7b16038a999e92f5b262d799fa553",
+                        "url": "https://edge.forgecdn.net/files/4287/475/framework-0.4.2-1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.leon_mout:iris-flywheel-compat:4631182.659897",
+                    "name": "Iris & Oculus Flywheel Compat",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 63758,
+                        "MD5": "8dfc07e3ab3de0299a0b84aa407d3ba8",
+                        "url": "https://edge.forgecdn.net/files/4631/182/oculus-flywheel-compat-1.18.2-0.2.1.jar"
+                    }
+                },
+                {
+                    "id": "com.virtuoel:pehkui:4823461.319596",
+                    "name": "Pehkui",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 472205,
+                        "MD5": "3c7c807c8147cde33ebea6efe5eed5b3",
+                        "url": "https://edge.forgecdn.net/files/4823/461/Pehkui-3.7.11+1.18.2-forge.jar"
+                    }
+                },
+                {
+                    "id": "com.therealclumsyalien:timeless-and-classic-guns-tac:4886929.491264",
+                    "name": "Timeless and Classics Guns",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 47191228,
+                        "MD5": "3c3ea1439a091782889c023754a6e794",
+                        "url": "https://edge.forgecdn.net/files/4886/929/tac-0.3.10.1-1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.punpanprolol:theundead:4928215.479710",
+                    "name": "THE UNDEAD REVAMPED",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 4867807,
+                        "MD5": "5b8ce5cc737d715bd4fd12b6fd86a5c0",
+                        "url": "https://edge.forgecdn.net/files/4928/215/THEUNDEADREVAMPED_0.9e_1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.flanks255:simply-light:4016411.300331",
+                    "name": "Simply Light",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 549014,
+                        "MD5": "c74f5774fc0a28016ffcf6dedf2f8d7a",
+                        "url": "https://edge.forgecdn.net/files/4016/411/simplylight-1.18.2-1.4.5-build.43.jar"
+                    }
+                },
+                {
+                    "id": "com.twistedgate:immersiveposts:3800690.314645",
+                    "name": "Immersive Posts",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 495437,
+                        "MD5": "a64100b5bd3ef53b4e40e7b0e994138f",
+                        "url": "https://edge.forgecdn.net/files/3800/690/ImmersivePosts-1.18.2-4.3.0-3.jar"
+                    }
+                },
+                {
+                    "id": "com.cursed1nferno:stackablepotions-forge:3717878.599436",
+                    "name": "StackablePotions [Forge]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 11109,
+                        "MD5": "5f7b37243870de26bc2c2e011fec3fb7",
+                        "url": "https://edge.forgecdn.net/files/3717/878/StackablePotions-forge-1.18.2-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.lizard_ofoz:drg-flares-forge:3704538.568536",
+                    "name": "DRG Flares (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 303334,
+                        "MD5": "2ec88b2e1c56e9a529896778dd84a202",
+                        "url": "https://edge.forgecdn.net/files/3704/538/drg_flares-1.18-forge-1.2.2.jar"
+                    }
+                },
+                {
+                    "id": "com.theillusivec4:diet:4571116.443570",
+                    "name": "Diet (Fabric/Forge/Quilt)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 209289,
+                        "MD5": "494fe0194b2d70d3406c64d5e81aa28b",
+                        "url": "https://edge.forgecdn.net/files/4571/116/diet-forge-1.18.2-1.3.2.1.jar"
+                    }
+                },
+                {
+                    "id": "com.boiledketchup_:enhanced-hordes:5023161.899308",
+                    "name": "Enhanced Hordes",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 36874,
+                        "MD5": "02eaa1777c1e1fd1fbf8b5e356e79294",
+                        "url": "https://edge.forgecdn.net/files/5023/161/eh1.2-1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.someaddon:client-crafting:4646958.888790",
+                    "name": "Client Crafting",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 9993,
+                        "MD5": "f41377c04f1387a682580e4bcfb5372e",
+                        "url": "https://edge.forgecdn.net/files/4646/958/clientcrafting-1.18.2-1.6.jar"
+                    }
+                },
+                {
+                    "id": "com.blusunrize:immersive-engineering:4412849.231951",
+                    "name": "Immersive Engineering",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 10990611,
+                        "MD5": "42692c1359ec70c721580e9452d69fa8",
+                        "url": "https://edge.forgecdn.net/files/4412/849/ImmersiveEngineering-1.18.2-8.4.0-161.jar"
+                    }
+                },
+                {
+                    "id": "com.corosus:zombie-awareness:3603741.237754",
+                    "name": "Zombie Awareness",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 283549,
+                        "MD5": "be74f7d2feeab85cfdce33efb455a480",
+                        "url": "https://edge.forgecdn.net/files/3603/741/zombieawareness-1.18.1-1.12.3.jar"
+                    }
+                },
+                {
+                    "id": "com.theadubbz:serene-seasons:3693807.291874",
+                    "name": "Serene Seasons",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 137726,
+                        "MD5": "8bf885c88cc1fb7c775bf3c8e7f875a7",
+                        "url": "https://edge.forgecdn.net/files/3693/807/Serene Seasons-1.18.2-7.0.0.13.jar"
+                    }
+                },
+                {
+                    "id": "com.moddinglegacy:lucent:3776959.493280",
+                    "name": "Lucent",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 96959,
+                        "MD5": "c8af8626713fc464ee910187f9f8b0d9",
+                        "url": "https://edge.forgecdn.net/files/3776/959/lucent-1.18.2-1.2.2.jar"
+                    }
+                },
+                {
+                    "id": "com.emingt:complementary-reimagined:4570501.627557",
+                    "name": "Complementary Shaders - Reimagined",
+                    "type": "File",
+                    "artifact": {
+                        "size": 271145,
+                        "MD5": "ba5ff120ed02ef109da54ae15a7615d9",
+                        "url": "https://edge.forgecdn.net/files/4570/501/ComplementaryReimagined_r2.2.zip",
+                        "path": "resourcepacks/ComplementaryReimagined_r2.2.zip"
+                    }
+                },
+                {
+                    "id": "com.grend_g:iceberg:4035917.520110",
+                    "name": "Iceberg [Neo/Forge]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 107482,
+                        "MD5": "34cf6cacf18f8e7eefe759042edfc42e",
+                        "url": "https://edge.forgecdn.net/files/4035/917/Iceberg-1.18.2-forge-1.0.49.jar"
+                    }
+                },
+                {
+                    "id": "com.jaredlll08:crafttweaker:4886430.239197",
+                    "name": "CraftTweaker",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2927301,
+                        "MD5": "e5ff463bd86cbfe3638a0c2612767c3b",
+                        "url": "https://edge.forgecdn.net/files/4886/430/CraftTweaker-forge-1.18.2-9.1.211.jar"
+                    }
+                },
+                {
+                    "id": "com.latvianmodder:rhino:4069880.416294",
+                    "name": "Rhino",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1687288,
+                        "MD5": "f020741d167e536995e829392ae1fbee",
+                        "url": "https://edge.forgecdn.net/files/4069/880/rhino-forge-1802.2.1-build.255.jar"
+                    }
+                },
+                {
+                    "id": "com.lainmi:cleanview:3669491.226889",
+                    "name": "CleanView",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 10652,
+                        "MD5": "b5488937638b036f542f2064a4e5cb54",
+                        "url": "https://edge.forgecdn.net/files/3669/491/CleanView-1.18.2-v1.jar"
+                    }
+                },
+                {
+                    "id": "com.supermartijn642:supermartijn642s-config-lib:3862966.438332",
+                    "name": "SuperMartijn642's Config Lib",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 205931,
+                        "MD5": "087bb28cd6e05607b5978febed64c800",
+                        "url": "https://edge.forgecdn.net/files/3862/966/supermartijn642configlib-1.1.6-forge-mc1.18.jar"
+                    }
+                },
+                {
+                    "id": "com.tynoxs:builders-delight-forge:3857874.563734",
+                    "name": "Builder's Delight (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3723262,
+                        "MD5": "6a2bf6843ac403f207066b869b567ca0",
+                        "url": "https://www.curseforge.com/api/v1/mods/563734/files/3857874/download"
+                    }
+                },
+                {
+                    "id": "com.tschipp:carry-on:3674344.274259",
+                    "name": "Carry On",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 319406,
+                        "MD5": "f4a3ae3e109a3941f4b89ee81d568956",
+                        "url": "https://edge.forgecdn.net/files/3674/344/carryon-1.18.2-1.17.0.8.jar"
+                    }
+                },
+                {
+                    "id": "com.elocindev:geckoanimfix:5018199.959388",
+                    "name": "Iris/Oculus & GeckoLib Compat",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 6239,
+                        "MD5": "4dd6b749ec2ca69a208a15091530825b",
+                        "url": "https://edge.forgecdn.net/files/5018/199/GeckoLibOculusCompat-Forge-1.0.1.jar"
+                    }
+                },
+                {
+                    "id": "com.laidbacksloth:oculus-particle-fix:4787564.920888",
+                    "name": "Oculus Particle Fix",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 163664,
+                        "MD5": "826743457ead6e8a8db65153629f4330",
+                        "url": "https://edge.forgecdn.net/files/4787/564/oculusparticlefix-1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.someaddon:fast-async-world-save-forge-fabric:4973381.951499",
+                    "name": "Fast Async World Save[Forge/Fabric]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 9988,
+                        "MD5": "155f340a87c24cad15403c3005dfc44b",
+                        "url": "https://edge.forgecdn.net/files/4973/381/fastasyncworldsave-1.18.2-1.2.jar"
+                    }
+                },
+                {
+                    "id": "com.embeddedt:modernfix:5077313.790626",
+                    "name": "ModernFix",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 759170,
+                        "MD5": "01ea7992dc780a6a77174360a63c8927",
+                        "url": "https://edge.forgecdn.net/files/5077/313/modernfix-forge-5.13.0%2bmc1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.ftb:ftb-teams-forge:4229138.404468",
+                    "name": "FTB Teams (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 201053,
+                        "MD5": "4f84b29283e56ec96d53ec5c152076be",
+                        "url": "https://edge.forgecdn.net/files/4229/138/ftb-teams-forge-1802.2.9-build.88.jar"
+                    }
+                },
+                {
+                    "id": "com.lordcazsius:spice-of-life-carrot-edition:3571539.277616",
+                    "name": "Spice of Life: Carrot Edition",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 99795,
+                        "MD5": "e701e8f88a93f78ff524b484d0624fb1",
+                        "url": "https://edge.forgecdn.net/files/3571/539/SoL-Carrot-1.18.1-1.12.0.jar"
+                    }
+                },
+                {
+                    "id": "com.someaddon:structure-essentials-forge-fabric:4764082.832882",
+                    "name": "Structure Essentials[Forge/Fabric]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 23792,
+                        "MD5": "1f8ae3c6b920292043b28e90f6608e9e",
+                        "url": "https://edge.forgecdn.net/files/4764/82/structureessentials-1.18.2-3.0.jar"
+                    }
+                },
+                {
+                    "id": "com.henkelmax:easy-villagers:3887794.400514",
+                    "name": "Easy Villagers",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 364712,
+                        "MD5": "b99cdd1c6d9c3bd8d097a237a4241bdc",
+                        "url": "https://edge.forgecdn.net/files/3887/794/easy_villagers-1.18.2-1.0.11.jar"
+                    }
+                },
+                {
+                    "id": "com.blaytheninth:trashslot:4412854.235577",
+                    "name": "TrashSlot",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 113271,
+                        "MD5": "e1e560b8553df0c9eeb61515800bb5b7",
+                        "url": "https://edge.forgecdn.net/files/4412/854/trashslot-forge-1.18.2-11.0.3.jar"
+                    }
+                },
+                {
+                    "id": "com.noobanidus:lootr:4596362.361276",
+                    "name": "Lootr (Forge & NeoForge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 285211,
+                        "MD5": "6f0bfe14b17b5d2bc7dd02157c0f5253",
+                        "url": "https://edge.forgecdn.net/files/4596/362/lootr-1.18.2-0.3.25.63.jar"
+                    }
+                },
+                {
+                    "id": "com.antrolgamingofficial:day-counter:4479169.559334",
+                    "name": "Day Counter",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 401028,
+                        "MD5": "13468d1ce20b2d70a341eb536e2092f8",
+                        "url": "https://edge.forgecdn.net/files/4479/169/day_counter_v3.0_1.18.2_[FORGE].jar"
+                    }
+                },
+                {
+                    "id": "com.gaz_:better-compatibility-checker:4358571.551894",
+                    "name": "Better Compatibility Checker",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 15653,
+                        "MD5": "a1bc3fd859fd149c955bed3be2946b75",
+                        "url": "https://edge.forgecdn.net/files/4358/571/BetterCompatibilityChecker-1.1.21-build.48+mc1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.jaredlll08:contenttweaker:3957096.237065",
+                    "name": "ContentTweaker",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 919678,
+                        "MD5": "90e6840a8938b5648f52c66caca488b7",
+                        "url": "https://edge.forgecdn.net/files/3957/96/ContentTweaker-forge-1.18.2-1.0.0+13.jar"
+                    }
+                },
+                {
+                    "id": "com.shadows_of_fire:placebo:4035110.283644",
+                    "name": "Placebo",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 215857,
+                        "MD5": "81358db2defca10f86e92d07561f5113",
+                        "url": "https://edge.forgecdn.net/files/4035/110/Placebo-1.18.2-6.6.6.jar"
+                    }
+                },
+                {
+                    "id": "com.darkhaxdev:attributefix:3801087.280510",
+                    "name": "AttributeFix",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 20394,
+                        "MD5": "b3c46689c40a827b38beec4b24b5b0d3",
+                        "url": "https://edge.forgecdn.net/files/3801/87/AttributeFix-Forge-1.18.2-14.0.2.jar"
+                    }
+                },
+                {
+                    "id": "com.dragonsplus:create-central-kitchen:4970407.820977",
+                    "name": "Create Central Kitchen",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1057996,
+                        "MD5": "5b6985cd40535516b29ea281eb8c72ac",
+                        "url": "https://edge.forgecdn.net/files/4970/407/create_central_kitchen-1.18.2-for-create-0.5.1.f-1.3.9.d.jar"
+                    }
+                },
+                {
+                    "id": "com.corosus:mobtimizations:5105890.974401",
+                    "name": "Mobtimizations - Entity Performance Fixes",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 22761,
+                        "MD5": "10f54f452a68027722fee2551f7c6366",
+                        "url": "https://edge.forgecdn.net/files/5105/890/mobtimizations-forge-1.18.2-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.starfish_studios:another-furniture:4034013.610492",
+                    "name": "Another Furniture",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1540367,
+                        "MD5": "fa56ba49391ff09bc81d622c7515d0fc",
+                        "url": "https://edge.forgecdn.net/files/4034/13/another_furniture-forge-1.2.2-1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.mrcrayfish:configured:4010624.457570",
+                    "name": "Configured",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 276996,
+                        "MD5": "458b5b856d91414496ac5c8c2c0c8809",
+                        "url": "https://edge.forgecdn.net/files/4010/624/configured-2.0.0-1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.embeddedt:embeddium:5175514.908741",
+                    "name": "Embeddium",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1536218,
+                        "MD5": "12d0ba3ceb6b32af578ccde917d596ed",
+                        "url": "https://edge.forgecdn.net/files/5175/514/embeddium-0.3.10%2bmc1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.insane96:enhanced-ai:5042455.515276",
+                    "name": "Enhanced AI",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 364899,
+                        "MD5": "55cdbabe5aa03500077ca0ac7bffe0bb",
+                        "url": "https://edge.forgecdn.net/files/5042/455/EnhancedAI-1.6.11-mc1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.gorymoon:global-gamerules:3583363.227657",
+                    "name": "Global GameRules",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 16937,
+                        "MD5": "8f6e503e8bc17859182d3e865bcda05e",
+                        "url": "https://edge.forgecdn.net/files/3583/363/GlobalGameRules-1.18.1-6.0.0.5.jar"
+                    }
+                },
+                {
+                    "id": "com.xaero96:xaeros-world-map:4933747.317780",
+                    "name": "Xaero's World Map",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 858236,
+                        "MD5": "ae6b707e63c4d96588aa7ab32fd413b2",
+                        "url": "https://edge.forgecdn.net/files/4933/747/XaerosWorldMap_1.37.3_Forge_1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.jaredlll08:jeitweaker:3950183.368718",
+                    "name": "JEITweaker",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 156552,
+                        "MD5": "8b635ba1bd6bfb5c6397a369887ba3db",
+                        "url": "https://edge.forgecdn.net/files/3950/183/JEITweaker-1.18.2-3.0.0.9.jar"
+                    }
+                },
+                {
+                    "id": "com.smileycorp:the-hordes:5287529.485779",
+                    "name": "The Hordes",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 588640,
+                        "MD5": "3a78ff05779ef8892bad2cd9d0c7b143",
+                        "url": "https://edge.forgecdn.net/files/5287/529/The-Hordes-1.18.2-1.5.3a.jar"
+                    }
+                },
+                {
+                    "id": "com.p3pp3rf1y:sophisticated-backpacks:4913629.422301",
+                    "name": "Sophisticated Backpacks",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 823339,
+                        "MD5": "55a7231220172a5a2f534c132ac88194",
+                        "url": "https://edge.forgecdn.net/files/4913/629/sophisticatedbackpacks-1.18.2-3.19.1.959.jar"
+                    }
+                },
+                {
+                    "id": "com.chloe_koopa:third-person-shooting:5089920.969378",
+                    "name": "Third Person Shooting: Zero",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 29930,
+                        "MD5": "f4a4b795ddab3ab16392a3616d275cd8",
+                        "url": "https://edge.forgecdn.net/files/5089/920/tp_shooting-1.18.2-2.2.7.jar"
+                    }
+                },
+                {
+                    "id": "com.ftb:ftb-library-forge:4210935.404465",
+                    "name": "FTB Library (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 585684,
+                        "MD5": "f1f129b51b7ee9caf5d7edbe33eab6b7",
+                        "url": "https://edge.forgecdn.net/files/4210/935/ftb-library-forge-1802.3.9-build.167.jar"
+                    }
+                },
+                {
+                    "id": "com.simibubi:create:4835188.328085",
+                    "name": "Create",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 14906855,
+                        "MD5": "a9fc645f2a4720f831794bd160b9bc0b",
+                        "url": "https://edge.forgecdn.net/files/4835/188/create-1.18.2-0.5.1.f.jar"
+                    }
+                },
+                {
+                    "id": "com.darkhaxdev:tips:4068904.306549",
+                    "name": "Tips",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 90318,
+                        "MD5": "bc884084bb6c55ae67c3e45d1dd3cb57",
+                        "url": "https://edge.forgecdn.net/files/4068/904/Tips-Forge-1.18.2-5.0.11.jar"
+                    }
+                },
+                {
+                    "id": "com.henkelmax:camera-mod:3970106.289310",
+                    "name": "Camera Mod",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 291141,
+                        "MD5": "622b5f41f7566fb011a4f7a3fe741762",
+                        "url": "https://edge.forgecdn.net/files/3970/106/camera-1.18.2-1.0.5.jar"
+                    }
+                },
+                {
+                    "id": "com.spacecat_97:custom-villager-trades-forge:5127495.463402",
+                    "name": "Custom Villager Trades (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 54196,
+                        "MD5": "7ffa2abccb284d920d9356fa77ff222f",
+                        "url": "https://edge.forgecdn.net/files/5127/495/customvillagertrades-forge-18.24.0.jar"
+                    }
+                },
+                {
+                    "id": "com.traben_0:entity-texture-features-fabric:4839740.568563",
+                    "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 519385,
+                        "MD5": "3abfcd512584c1bb8e7091de2b9ae7e2",
+                        "url": "https://edge.forgecdn.net/files/4839/740/entity_texture_features_forge_1.18.2-4.6.1.jar"
+                    }
+                },
+                {
+                    "id": "com.grondagthebarbarian:true-darkness:3815313.337243",
+                    "name": "True Darkness",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 28839,
+                        "MD5": "b12b9c5d10ac1f1b6fa2b26c7eb93100",
+                        "url": "https://edge.forgecdn.net/files/3815/313/darkness-forge-mc118-2.0.91.jar"
+                    }
+                },
+                {
+                    "id": "com.ochotonida:artifacts:3984105.312353",
+                    "name": "Artifacts",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 506701,
+                        "MD5": "cf94483939f79fd0a6874c29f3d28216",
+                        "url": "https://edge.forgecdn.net/files/3984/105/artifacts-1.18.2-4.2.0.jar"
+                    }
+                },
+                {
+                    "id": "com.geforce132:security-craft:4605456.64760",
+                    "name": "Security Craft",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3639921,
+                        "MD5": "f17a9ea0e52536c0f34bd381fff9fd59",
+                        "url": "https://edge.forgecdn.net/files/4605/456/[1.18.2] SecurityCraft v1.9.7.jar"
+                    }
+                },
+                {
+                    "id": "com.kreezxil:mob-sunscreen:3566858.298408",
+                    "name": "Mob Sunscreen",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 188666,
+                        "MD5": "4356e4101604308540c1f4e1a0e6faed",
+                        "url": "https://www.curseforge.com/api/v1/mods/298408/files/3566858/download"
+                    }
+                },
+                {
+                    "id": "com.daedelus_dev:better-combat-by-daedelus:4428885.639842",
+                    "name": "Better Combat [Fabric & Forge]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 897846,
+                        "MD5": "95a3bc8025f62473b1bffe85d504b996",
+                        "url": "https://edge.forgecdn.net/files/4428/885/bettercombat-forge-1.6.2+1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.ghenghen_:thirst-was-taken:4794519.679270",
+                    "name": "Thirst Was Taken",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 188567,
+                        "MD5": "5213ccb72ddef8e2d789e33e82a2951e",
+                        "url": "https://edge.forgecdn.net/files/4794/519/ThirstWasTaken-1.18.2-1.3.4.jar"
+                    }
+                },
+                {
+                    "id": "com.cheostwitch:armorpoints:4514162.396094",
+                    "name": "Armor Points ++",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 183912,
+                        "MD5": "3b3e9d8b60e35cd54b4467ae76736bee",
+                        "url": "https://edge.forgecdn.net/files/4514/162/armorpointspp-forge-1.18.2-3.1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.tinytransfem:anvil-never-too-expensive:3974158.670282",
+                    "name": "Anvil Never Too Expensive",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 7899,
+                        "MD5": "5e087a076b02e85fbb9bbc955a8c622d",
+                        "url": "https://edge.forgecdn.net/files/3974/158/AnvilNeverTooExpensive-1.18-1.1.jar"
+                    }
+                },
+                {
+                    "id": "com.adelink_lol:adelinks-ultimate-car-custom-textures:3830365.434877",
+                    "name": "Adelink's Ultimate Car - Custom textures",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1837548,
+                        "MD5": "4db845611a955f59b0d8a5f0cbbd26a1",
+                        "url": "https://edge.forgecdn.net/files/3830/365/[1.18.0] Ultimate Car textures-1.0.1.zip",
+                        "path": "resourcepacks/[1.18.0] Ultimate Car textures-1.0.1.zip"
+                    }
+                },
+                {
+                    "id": "com.vazkii:quark:3840125.243121",
+                    "name": "Quark",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 13743162,
+                        "MD5": "ce00897b54456cc8847db82c9305f7a0",
+                        "url": "https://edge.forgecdn.net/files/3840/125/Quark-3.2-358.jar"
+                    }
+                },
+                {
+                    "id": "com.sbom_xela:alexs-mobs:3853078.426558",
+                    "name": "Alex's Mobs",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 22436427,
+                        "MD5": "055b233750ba11d528e4c23a1ad6d179",
+                        "url": "https://edge.forgecdn.net/files/3853/78/alexsmobs-1.18.6.jar"
+                    }
+                },
+                {
+                    "id": "com.spacewalkerrs:alternate-current:3789218.548115",
+                    "name": "Alternate Current",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 53413,
+                        "MD5": "a85afdd1e2123590b274f4a84ce11581",
+                        "url": "https://edge.forgecdn.net/files/3789/218/alternate-current-mc1.18-1.2.1.jar"
+                    }
+                },
+                {
+                    "id": "com.shedaniel:architectury-api:4521465.419699",
+                    "name": "Architectury API (Fabric/Forge/NeoForge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 549226,
+                        "MD5": "f3e897bea30252c717004e1a3439cf6b",
+                        "url": "https://edge.forgecdn.net/files/4521/465/architectury-4.11.93-forge.jar"
+                    }
+                },
+                {
+                    "id": "com.talrey:create-deco:4554163.509285",
+                    "name": "Create Deco",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3116834,
+                        "MD5": "2e2116efbe27ea49d4780e2674f58b04",
+                        "url": "https://edge.forgecdn.net/files/4554/163/createdeco-1.3.3-1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.ftb:ftb-quests-forge:4760361.289412",
+                    "name": "FTB Quests (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1100542,
+                        "MD5": "4bd8df2305e994ebc2fbeaca669979e2",
+                        "url": "https://edge.forgecdn.net/files/4760/361/ftb-quests-forge-1802.3.15-build.298.jar"
+                    }
+                },
+                {
+                    "id": "com.pufferfish:puffish-skills:4838219.835091",
+                    "name": "Pufferfish's Skills [Forge & Fabric]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 365614,
+                        "MD5": "3604ecaab71bba2e3b59a9438bb7f926",
+                        "url": "https://edge.forgecdn.net/files/4838/219/puffish_skills-0.10.0-1.18.2-forge.jar"
+                    }
+                },
+                {
+                    "id": "com.abdelaziz333:canary:5089967.665658",
+                    "name": "Canary",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 594088,
+                        "MD5": "f885afb220923b7f0bba785a8fc9ac2a",
+                        "url": "https://edge.forgecdn.net/files/5089/967/canary-mc1.18.2-0.3.3.jar"
+                    }
+                },
+                {
+                    "id": "com.henkelmax:sound-physics-remastered:3775919.535489",
+                    "name": "Sound Physics Remastered",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 97678,
+                        "MD5": "bc11649a1f9c33b324d3b4a403a593da",
+                        "url": "https://edge.forgecdn.net/files/3775/919/soundphysics-forge-1.18.2-1.0.6.jar"
+                    }
+                },
+                {
+                    "id": "com.abdelaziz333:pluto:4469705.682881",
+                    "name": "Pluto",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 162564,
+                        "MD5": "e4be374b193b1cddd3aac15ed4fb8445",
+                        "url": "https://edge.forgecdn.net/files/4469/705/pluto-mc1.18.2-0.0.6.jar"
+                    }
+                },
+                {
+                    "id": "com.theillusivec4:comforts:4398246.276951",
+                    "name": "Comforts (Fabric/Forge/Quilt)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 225528,
+                        "MD5": "3008390001a8f16946aca4b7411fb1e2",
+                        "url": "https://edge.forgecdn.net/files/4398/246/comforts-forge-1.18.2-5.0.0.6.jar"
+                    }
+                },
+                {
+                    "id": "com.typowyseb4:no-enchant-glint:4127753.366938",
+                    "name": "No Enchant Glint",
+                    "type": "File",
+                    "artifact": {
+                        "size": 19395,
+                        "MD5": "9d95948f1b7929977c8466b026e48b14",
+                        "url": "https://www.curseforge.com/api/v1/mods/366938/files/4127753/download",
+                        "path": "resourcepacks/§6No_Enchant_Glint_1.18.zip"
+                    }
+                },
+                {
+                    "id": "com.mezz:jei:4593548.238222",
+                    "name": "Just Enough Items (JEI)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1085640,
+                        "MD5": "2ca8e4f60a1f0ff78838a93f5fb8f697",
+                        "url": "https://edge.forgecdn.net/files/4593/548/jei-1.18.2-forge-10.2.1.1005.jar"
+                    }
+                },
+                {
+                    "id": "com.mysticpasta1:custom-portal-api-forge:4947876.621463",
+                    "name": "Custom Portal API [Forge]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 127138,
+                        "MD5": "30f9521a26589a9db2a0ebba4c566e63",
+                        "url": "https://edge.forgecdn.net/files/4947/876/customportalapi-0.0.5-forge-1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.mapper:embellishcraft:3952255.317094",
+                    "name": "EmbellishCraft",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 5468507,
+                        "MD5": "c38053b5b2fb0edf05b8f092c048c9a6",
+                        "url": "https://edge.forgecdn.net/files/3952/255/embellishcraft-1.18.2-5.0.1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.tr7zw:entityculling:4406217.448233",
+                    "name": "Entity Culling Fabric/Forge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 59875,
+                        "MD5": "3145e53a4f8c39df16f1e53ab23c866b",
+                        "url": "https://www.curseforge.com/api/v1/mods/448233/files/4406217/download"
+                    }
+                },
+                {
+                    "id": "com.rikka_kitani:dietary-statistics:3803425.623634",
+                    "name": "Dietary Statistics",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 15937,
+                        "MD5": "d1dac06066422dcbdfc4f8f5124b6fc8",
+                        "url": "https://www.curseforge.com/api/v1/mods/623634/files/3803425/download"
+                    }
+                },
+                {
+                    "id": "com.almightytallestred:guard-villagers:3823106.360203",
+                    "name": "Guard Villagers",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 183159,
+                        "MD5": "58e2201b0a7a4eade17cafb0a9c703a9",
+                        "url": "https://edge.forgecdn.net/files/3823/106/guardvillagers-1.18.2.1.4.3.jar"
+                    }
+                },
+                {
+                    "id": "com.serilum:collective:4436950.342584",
+                    "name": "Collective",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 579018,
+                        "MD5": "731affba8ef41c9f66544c96bd61c8d9",
+                        "url": "https://edge.forgecdn.net/files/4436/950/collective-1.18.2-6.53.jar"
+                    }
+                },
+                {
+                    "id": "com.chaosyr:natures-compass:3858196.252848",
+                    "name": "Nature's Compass",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 206034,
+                        "MD5": "de767a701827dc2db20ca71ca5872049",
+                        "url": "https://edge.forgecdn.net/files/3858/196/NaturesCompass-1.18.2-1.9.7-forge.jar"
+                    }
+                },
+                {
+                    "id": "com.gecko:geckolib:4181370.388172",
+                    "name": "GeckoLib",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2927832,
+                        "MD5": "d491c30c6d9bd3f767bd545cbaf6502e",
+                        "url": "https://edge.forgecdn.net/files/4181/370/geckolib-forge-1.18-3.0.57.jar"
+                    }
+                },
+                {
+                    "id": "com.sskirillss:notenoughrecipebook:4745202.738663",
+                    "name": "Not Enough Recipe Book [NERB]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 10388,
+                        "MD5": "6d3ac4ffa8320466ad946df63b2b1c41",
+                        "url": "https://edge.forgecdn.net/files/4745/202/nerb-1.18.2-0.3-FORGE.jar"
+                    }
+                },
+                {
+                    "id": "com.henkelmax:pipez:3819249.443900",
+                    "name": "Pipez",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 402903,
+                        "MD5": "1dd4aafec470caaefdea0d1856eae230",
+                        "url": "https://edge.forgecdn.net/files/3819/249/pipez-1.18.2-1.1.5.jar"
+                    }
+                },
+                {
+                    "id": "com.mcjty:fx-control:4392693.313477",
+                    "name": "Fx Control!",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 122527,
+                        "MD5": "99dd5eb333b94bd3f581d1957ae0a246",
+                        "url": "https://edge.forgecdn.net/files/4392/693/fxcontrol-1.18-3.0.9.jar"
+                    }
+                },
+                {
+                    "id": "com.mrhminer:createaddition:4683727.439890",
+                    "name": "Create Crafts & Additions",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1111220,
+                        "MD5": "a350f0f8c5ceca51a7555a2a7cb09333",
+                        "url": "https://edge.forgecdn.net/files/4683/727/createaddition-1.18.2-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.quintinity:better-ping-display:3735839.292038",
+                    "name": "Better Ping Display",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 15969,
+                        "MD5": "7a96b190cf3ad74a84a5e592dd2fa8db",
+                        "url": "https://edge.forgecdn.net/files/3735/839/BetterPingDisplay-1.18.2-1.1.jar"
+                    }
+                },
+                {
+                    "id": "com.serilum:fixed-anvil-repair-cost:4397616.390913",
+                    "name": "Fixed Anvil Repair Cost",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 42148,
+                        "MD5": "e17ecb52f9d132153372444bbfc1e553",
+                        "url": "https://edge.forgecdn.net/files/4397/616/fixedanvilrepaircost-1.18.2-3.1.jar"
+                    }
+                },
+                {
+                    "id": "com.abdelaziz333:smooth-boot-reloaded:5016275.633412",
+                    "name": "Smooth Boot (Reloaded)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 41005,
+                        "MD5": "bbf2210f10fa87d97da6b34e9ae486a4",
+                        "url": "https://edge.forgecdn.net/files/5016/275/smoothboot(reloaded)-mc1.18.2-0.0.4.jar"
+                    }
+                },
+                {
+                    "id": "com.blaytheninth:default-options:4412630.232131",
+                    "name": "Default Options",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 86852,
+                        "MD5": "8725c556e3575936131f8045dbfaa904",
+                        "url": "https://edge.forgecdn.net/files/4412/630/defaultoptions-forge-1.18.2-14.1.2.jar"
+                    }
+                },
+                {
+                    "id": "com.mrcrayfish:mrcrayfish-furniture-mod:4374992.55438",
+                    "name": "MrCrayfish's Furniture Mod (Legacy)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2181196,
+                        "MD5": "95542a00ac896e266ad04b23ebd8c468",
+                        "url": "https://edge.forgecdn.net/files/4374/992/cfm-7.0.0-pre35-1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.p3pp3rf1y:sophisticated-core:4913626.618298",
+                    "name": "Sophisticated Core",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1062575,
+                        "MD5": "df870a944822bba64b680d31fca94bba",
+                        "url": "https://edge.forgecdn.net/files/4913/626/sophisticatedcore-1.18.2-0.5.106.502.jar"
+                    }
+                },
+                {
+                    "id": "com.shadows_of_fire:fastsuite:3755834.475117",
+                    "name": "FastSuite",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 11185,
+                        "MD5": "45d1de27c9e69e614a3b480a03809bc8",
+                        "url": "https://edge.forgecdn.net/files/3755/834/FastSuite-1.18.2-3.0.2.jar"
+                    }
+                },
+                {
+                    "id": "com.florensie:expandability:3678612.465066",
+                    "name": "ExpandAbility",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 42821,
+                        "MD5": "0b92f0c9512b25674e25a02ac6ef1d58",
+                        "url": "https://edge.forgecdn.net/files/3678/612/expandability-6.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.darkhaxdev:bookshelf:4556713.228525",
+                    "name": "Bookshelf",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 313639,
+                        "MD5": "e36da3bb9bc1b84b136106939043563c",
+                        "url": "https://edge.forgecdn.net/files/4556/713/Bookshelf-Forge-1.18.2-13.3.56.jar"
+                    }
+                },
+                {
+                    "id": "com.brandonmccoub2:remove-potion-particles:3543387.503181",
+                    "name": "Remove Potion Particles",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3472,
+                        "MD5": "b786f32547d7dd11178ded3bea13989b",
+                        "url": "https://edge.forgecdn.net/files/3543/387/Remove_Potion_Particles_1.18_v1.2.zip",
+                        "path": "resourcepacks/Remove_Potion_Particles_1.18_v1.2.zip"
+                    }
+                },
+                {
+                    "id": "com.texelsaur:storage-drawers:3807626.223852",
+                    "name": "Storage Drawers",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 578059,
+                        "MD5": "dbca0eeb2e7ed37cb585b6def632be4d",
+                        "url": "https://edge.forgecdn.net/files/3807/626/StorageDrawers-1.18.2-10.2.1.jar"
+                    }
+                },
+                {
+                    "id": "com.bl4ckscor3:xp-tome:4061119.344787",
+                    "name": "XP Tome",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 19453,
+                        "MD5": "7bd162aa9f47183e933a4e1549693d31",
+                        "url": "https://edge.forgecdn.net/files/4061/119/xptome-1.18.2-2.1.7.jar"
+                    }
+                },
+                {
+                    "id": "com.latvianmodder:kubejs:4332311.238086",
+                    "name": "KubeJS",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1072613,
+                        "MD5": "590b515b8bb2ac8b5b4e8e6f5d53a98e",
+                        "url": "https://edge.forgecdn.net/files/4332/311/kubejs-forge-1802.5.5-build.567.jar"
+                    }
+                },
+                {
+                    "id": "com.snownee:snow-real-magic:4452956.308663",
+                    "name": "Snow! Real Magic! ⛄ (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 147438,
+                        "MD5": "fb441e52984791c68939dbf5070500a1",
+                        "url": "https://edge.forgecdn.net/files/4452/956/SnowRealMagic-1.18.2-forge-4.2.4.jar"
+                    }
+                },
+                {
+                    "id": "com.dimadencep:rubidium-extra:4513591.654373",
+                    "name": "Embeddium (Rubidium) Extra",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 342856,
+                        "MD5": "0a234916382d4d766bd9b2208c18310b",
+                        "url": "https://edge.forgecdn.net/files/4513/591/rubidium-extra-0.4.18+mc1.18.2-build.86.jar"
+                    }
+                },
+                {
+                    "id": "com.cdagaming_:craftpresence:4752219.297038",
+                    "name": "CraftPresence",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2336281,
+                        "MD5": "90d46ac5cd414e20be449344a94e763d",
+                        "url": "https://edge.forgecdn.net/files/4752/219/CraftPresence-2.2.3+1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.mutantgumdrop:no-villager-death-messages:3725041.451682",
+                    "name": "No Villager Death Messages",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 5570,
+                        "MD5": "e52d7f5724031b201148ce394787113e",
+                        "url": "https://edge.forgecdn.net/files/3725/41/novillagerdm-1.18.1-3.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.grend_g:equipment-compare:4360142.502561",
+                    "name": "Equipment Compare [Neo/Forge]",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 30493,
+                        "MD5": "15afafead80b15d888bf9cbaf10ea571",
+                        "url": "https://edge.forgecdn.net/files/4360/142/EquipmentCompare-1.18.2-forge-1.3.3.jar"
+                    }
+                },
+                {
+                    "id": "com.melanx:simple-backups:3859338.583228",
+                    "name": "Simple Backups",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 20118,
+                        "MD5": "1f469d0d4448c6cc7093fb2dff105ee2",
+                        "url": "https://edge.forgecdn.net/files/3859/338/SimpleBackups-1.18.2-1.1.9.jar"
+                    }
+                },
+                {
+                    "id": "com.way2muchnoise:better-advancements:3703960.272515",
+                    "name": "Better Advancements",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 63757,
+                        "MD5": "a97bfa335a23a2e0f499a0d6b1fea0d4",
+                        "url": "https://edge.forgecdn.net/files/3703/960/BetterAdvancements-1.18.2-0.1.2.125.jar"
+                    }
+                },
+                {
+                    "id": "com.mrbysco:this-rocks-forge:4341453.558126",
+                    "name": "This Rocks! (Forge)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 136261,
+                        "MD5": "6fb71f73f279f1b578a67987458eb18d",
+                        "url": "https://edge.forgecdn.net/files/4341/453/ThisRocks-1.18.2-1.0.4.jar"
+                    }
+                },
+                {
+                    "id": "com.unlikepaladin:paladins-furniture:5149388.663141",
+                    "name": "Paladin's Furniture",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 5584474,
+                        "MD5": "3a8601deaa9255e751ff94383e388a03",
+                        "url": "https://edge.forgecdn.net/files/5149/388/paladin-furniture-mod-1.2.1-forge-mc1.18.2.jar"
+                    }
+                },
+                {
+                    "id": "com.mikul:cold-sweat:5015720.506194",
+                    "name": "Cold Sweat",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 8299254,
+                        "MD5": "0d2120726794d437eca88acbf9533d18",
+                        "url": "https://edge.forgecdn.net/files/5015/720/ColdSweat-2.2.5.1.jar"
+                    }
+                },
+                {
+                    "id": "servers.dat",
+                    "name": "servers.dat",
+                    "type": "File",
+                    "artifact": {
+                        "size": 186,
+                        "url": "https://raw.githubusercontent.com/MaGyul/test/main/servers.dat",
+                        "MD5": "1d99e4ab645d41aacd0da4d50e407339",
+                        "path": "servers.dat"
+                    }
                 }
             ]
         }
