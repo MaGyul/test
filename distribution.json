@@ -1,0 +1,96 @@
+{
+    "version": "1.0.0",
+    "servers": [
+        {
+            "id": "mcs-1.18.2",
+            "name": "mcs (Minecraft 1.18.2)",
+            "description": "Minecraft 1.18.2 (Forge v40.2.21)",
+            "icon": null,
+            "version": "1.0.0",
+            "address": "play_mcs.magyul.kr:25565",
+            "minecraftVersion": "1.18.2",
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.18.2-40.2.21",
+                    "name": "Minecraft Forge (base jar)",
+                    "type": "ForgeHosted",
+                    "classpath": true,
+                    "artifact": {
+                        "size": 10,
+                        "MD5": "0ec9d8a17e73748585d74d7fd0275fcb",
+                        "url": "https://modloaders.forgecdn.net/647622546/maven/net/minecraftforge/forge/1.18.2-40.2.21/forge-1.18.2-40.2.21.jar"
+                    },
+                    "subModules": [
+                        {
+                            "id": "1.18.2-40.2.21",
+                            "name": "Minecraft Forge (version.json)",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 15551,
+                                "MD5": "d3ea6132baa1c87dcd859d485c7fc93c",
+                                "url": "https://github.com/MaGyul/test/releases/download/mcs/1.18.2-forge-40.2.21.json"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:forge:1.18.2-40.2.21:universal",
+                            "name": "Minecraft Forge (universal jar)",
+                            "type": "Library",
+                            "classpath": true,
+                            "artifact": {
+                                "size": 2540054,
+                                "MD5": "33239abc725afb237ad036043538627c",
+                                "url": "https://github.com/MaGyul/test/releases/download/mcs/forge-1.18.2-40.2.21-universal.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:forge:1.18.2-40.2.21:client",
+                            "name": "Minecraft Forge (client jar)",
+                            "type": "Library",
+                            "classpath": true,
+                            "artifact": {
+                                "size": 4367198,
+                                "MD5": "703656e85bb6af1eb5557e0b65bb7468",
+                                "url": "https://github.com/MaGyul/test/releases/download/mcs/forge-1.18.2-40.2.21-client.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraft:client:1.18.2-20220404.173914:srg",
+                            "name": "Minecraft Forge (client srg)",
+                            "type": "Library",
+                            "classpath": true,
+                            "artifact": {
+                                "size": 13796791,
+                                "MD5": "49d0ce9681f0ffd3c5a177f6ad45c80b",
+                                "url": "https://github.com/MaGyul/test/releases/download/mcs/client-1.18.2-20220404.173914-srg.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraft:client:1.18.2-20220404.173914:slim",
+                            "name": "Minecraft Forge (client slim)",
+                            "type": "Library",
+                            "classpath": true,
+                            "artifact": {
+                                "size": 10909711,
+                                "MD5": "62184203a1e66c6c72b415b7d6e64c0d",
+                                "url": "https://github.com/MaGyul/test/releases/download/mcs/client-1.18.2-20220404.173914-slim.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraft:client:1.18.2-20220404.173914:extra",
+                            "name": "Minecraft Forge (client extra)",
+                            "type": "Library",
+                            "classpath": true,
+                            "artifact": {
+                                "size": 9349972,
+                                "MD5": "5de62b239289ed8e596b386766b87b41",
+                                "url": "https://github.com/MaGyul/test/releases/download/mcs/client-1.18.2-20220404.173914-extra.jar"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
