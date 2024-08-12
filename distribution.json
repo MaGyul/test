@@ -2683,6 +2683,17 @@
                         "MD5": "1d99e4ab645d41aacd0da4d50e407339",
                         "path": "servers.dat"
                     }
+                },
+                {
+                    "id": "overrides.zip",
+                    "name": "overrides.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 7634261,
+                        "url": "https://github.com/MaGyul/test/releases/download/mcs/overrides.zip",
+                        "MD5": "97f9601ca04ac7a04584c039f7a09b5b",
+                        "path": "overrides.zip"
+                    }
                 }
             ]
         }
